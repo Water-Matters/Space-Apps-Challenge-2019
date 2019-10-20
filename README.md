@@ -1,4 +1,4 @@
-# Space-Apps-Challenge-2019: WaterMatters Visualization tool
+# NASA Space Apps: WaterMatters Visualization tool
 
 WaterMatters shows you how the world map will change over time due to rising sea levels and what would happen if we were able to reduce the rate of increase.
 
