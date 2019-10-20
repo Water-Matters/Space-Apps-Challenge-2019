@@ -2,7 +2,7 @@
 
 WaterMatters shows you how the world map will change over time due to rising sea levels and what would happen if we were able to reduce the rate of increase.
 
-This project have been developed by: Miquel Esteve Gay, Beatriz López Ramos-Neble, Álvaro León Sironi and Jose Antonio Lucio Mora.
+This project have been developed by: Miquel Estévez Gay, Beatriz López Ramos-Neble, Álvaro León Sironi and Jose Antonio Lucio Mora.
 
 Sea levels are rising as a consequence of Global Climate Change, this will affect the distribution of land areas and, therefore, all the organisms that inhabit both water and terrestrial media. All members of the WaterMatters team come from different cities but all are located in coastal areas, which makes us especially aware of this cause. One day we found an illustration that went viral on social networks which tried to represent the Europe of 2050 by outlining the map to show the flooded areas. Although the idea was good, this illustration did not faithfully represent reality, since according to it mountainous areas such as the Pyrenees (Spain) were flooded in the same way as flat areas such as Venice (Italy). So, we thought we could create a realistic map showing the areas that would be flooded taking into account the elevation of the land, the accessibility of water and other scientifically proven parameters.
 
